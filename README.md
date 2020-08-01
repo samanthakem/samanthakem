@@ -1,4 +1,4 @@
-<img align="right" src="samanthakem_speaker.png" alt="Illustration of Samantha speaking at a conference with coding bubbles in background"
+<img align="right" src="samanthakem/blob/master/samanthakem_speaker.png" alt="Illustration of Samantha speaking at a conference with coding bubbles in background"
 	width=350px height=465px />
 
 ### <em>Olá</em>, I am Samantha. 👋
