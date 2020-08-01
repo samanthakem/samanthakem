@@ -8,6 +8,7 @@ Born and raised in Brazil, I currently live in USA and work as full-stack Softwa
 - 📫 How to reach me: samanthakem@gmail.com or Twitter [@samanthakem_](https://twitter.com/samanthakem_)
 - 😄 Pronouns: she/her <br>
 - 🏐 Whem I am not coding, I am most likely at the beach playing volleyball or any other sport.
+- 🎤 I will be speaking about Open Source at Grace Hopper Conference 2020 in September, hit me up if you are attending it.
 
 <!--
 **samanthakem/samanthakem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
