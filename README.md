@@ -3,7 +3,7 @@
 
 ### <em>Olá</em>, I am Samantha. 👋
 
-Born and raised in Brazil, I currently live in USA and work as full-stack Software Engineer @Intuit. I am very passionate about teaching and because of that, I lead the Women of SDJS meetup where I teach topics related to JavaScript as well on how to contribute to Open Source.
+Born and raised in Brazil (nordestina com orgulho), I currently live in California, USA and work as full-stack Software Engineer @Intuit. I love sharing knowledge so you might see me in tech conferences talking about JavaScript and Open Source. Last year, I presented at Grace Hopper Conference!
 
 - 📫 How to reach me: samanthakem@gmail.com or Twitter [@samanthakem_](https://twitter.com/samanthakem_)
 - 😄 Pronouns: she/her <br>
